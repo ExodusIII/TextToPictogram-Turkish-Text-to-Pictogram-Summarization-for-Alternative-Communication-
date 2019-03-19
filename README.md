@@ -1,8 +1,8 @@
 # texttopicto
 
 Demo
-•	App.de text yazılıyor. \n 
-•	Analiz ediliyor (şuan kelimeler bir arraya atılıyor) \n
-•	Kelimeler databasede aranıyor. \n
-•	Uygun pictoramlar databaseden çekilip. \n 
-•	App.de yansıtılıyor. \n
+•	App.de text yazılıyor.
+•	Analiz ediliyor (şuan kelimeler bir arraya atılıyor)
+•	Kelimeler databasede aranıyor. 
+•	Uygun pictoramlar databaseden çekilip. 
+•	App.de yansıtılıyor.
